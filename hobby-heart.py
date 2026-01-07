@@ -1,3 +1,5 @@
+# Original code by Code Alchemists Lab
+#Just having fun with Python
 import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
@@ -12,4 +14,5 @@ t.circle(45,200)
 t.fd(130)
 t.end_fill()
 turtle.done()
+
 
