@@ -10,3 +10,6 @@ This is just the beginning! 🚀
 2. Simple python code that appends members to the Beatle's Music Group. 🎸
 3. Simple python code that uses "import turtle" to display a heart image and a cute message for Valentines. ❤️
 4. Microsoft Excel file that displays a Happy 2026 Poster with only Excel tools like color, rand function, formulas, conditional formatting,etc. Just a small project i did before NYE. :) 🎆 🎇
+5. Vibing with Java shows lyrics to a Michael Jackson song with a moving square that changes colour.
+ 
+
